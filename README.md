@@ -11,7 +11,7 @@
 
 ---
 
-#Abstract
+##Abstract
 The rapid proliferation of fake news on social media platforms poses
 significant societal challenges. While Large Language Models (LLMs) achieve
 high accuracy in detecting misinformation, their substantial computational costs
@@ -25,7 +25,7 @@ achieving 96–99% of the teacher model’s performance while reducing paramete
 an F1-score of 98.33% (within 0.4% of BERT-base) with a 3× increase in inference throughput. Furthermore, on the highly imbalanced FakeNewsNet dataset,
 DistilBERT matches BERT-base’s F1-score (≈83.6%) while significantly lowering training loss. Our findings confirm that streamlined architectures, when coupled with parameter-efficient fine-tuning techniques, offer a scalable and highperformance solution for real-time fake news detection on edge devices.
 
-#citation
+##citation
 @article{Phan2025SLMFakeNews,
   title={An Approach Based on Fine-Tuning Small Language Models for Fake News Detection},
   author={Phan, Khac-Lap and Le, Quang-Hung},
