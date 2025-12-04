@@ -1,0 +1,24 @@
+{
+  "dataset": "welfake",
+  "model": "minilm",
+  "num_train_samples": 54100,
+  "num_test_samples": 9017,
+  "metrics": {
+    "Accuracy": 0.9631806587556837,
+    "Precision": 0.9631806587556837,
+    "Recall": 0.9631806587556837,
+    "F1": 0.9631806587556837,
+    "AUC": 0.9909425493937342,
+    "samples_per_sec": 299.41760460796723,
+    "Train_Time_s": 1357.4681186676025,
+    "Test_Loss": 0.2114273485139752,
+    "Test_Steps_per_sec": 9.364063934728486
+  },
+  "hyperparameters": {
+    "batch_size": 32,
+    "num_epochs": 3,
+    "learning_rate": 2e-05,
+    "max_length": 384,
+    "seed": 42
+  }
+}

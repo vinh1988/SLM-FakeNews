@@ -1,0 +1,24 @@
+{
+  "dataset": "fakenewsnet",
+  "model": "distilbert",
+  "num_train_samples": 17397,
+  "num_test_samples": 2900,
+  "metrics": {
+    "Accuracy": 0.8144827586206896,
+    "Precision": 0.8221555078151643,
+    "Recall": 0.8144827586206896,
+    "F1": 0.8176745120944975,
+    "AUC": 0.8506252328614008,
+    "samples_per_sec": 207.2578190807833,
+    "Train_Time_s": 812.6707301139832,
+    "Test_Loss": 0.4881382370060617,
+    "Test_Steps_per_sec": 6.503607426328028
+  },
+  "hyperparameters": {
+    "batch_size": 32,
+    "num_epochs": 5,
+    "learning_rate": 2e-05,
+    "max_length": 384,
+    "seed": 42
+  }
+}

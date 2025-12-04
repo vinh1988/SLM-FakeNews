@@ -1,0 +1,24 @@
+{
+  "dataset": "liar",
+  "model": "albert",
+  "num_train_samples": 18369,
+  "num_test_samples": 2296,
+  "metrics": {
+    "Accuracy": 0.6855400696864111,
+    "Precision": 0.6825554027317976,
+    "Recall": 0.6855400696864111,
+    "F1": 0.678381731119263,
+    "AUC": 0.7627227663932994,
+    "samples_per_sec": 85.23664951419575,
+    "Train_Time_s": 2269.7989161014557,
+    "Test_Loss": 0.5298684251805147,
+    "Test_Steps_per_sec": 2.6729262913859295
+  },
+  "hyperparameters": {
+    "batch_size": 32,
+    "num_epochs": 5,
+    "learning_rate": 2e-05,
+    "max_length": 384,
+    "seed": 42
+  }
+}

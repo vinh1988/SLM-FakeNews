@@ -1,0 +1,24 @@
+{
+  "dataset": "fakenewsnet",
+  "model": "albert",
+  "num_train_samples": 17397,
+  "num_test_samples": 2900,
+  "metrics": {
+    "Accuracy": 0.7751724137931034,
+    "Precision": 0.810914672765658,
+    "Recall": 0.7751724137931034,
+    "F1": 0.7860585760110533,
+    "AUC": 0.8376053697839048,
+    "samples_per_sec": 85.47368292346228,
+    "Train_Time_s": 2132.5131299495697,
+    "Test_Loss": 0.5012346247395316,
+    "Test_Steps_per_sec": 2.6821052227707125
+  },
+  "hyperparameters": {
+    "batch_size": 32,
+    "num_epochs": 5,
+    "learning_rate": 2e-05,
+    "max_length": 384,
+    "seed": 42
+  }
+}

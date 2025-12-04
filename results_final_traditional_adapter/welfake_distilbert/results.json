@@ -1,0 +1,24 @@
+{
+  "dataset": "welfake",
+  "model": "distilbert",
+  "num_train_samples": 54100,
+  "num_test_samples": 9017,
+  "metrics": {
+    "Accuracy": 0.9697238549406676,
+    "Precision": 0.9698896065655557,
+    "Recall": 0.9697238549406676,
+    "F1": 0.9697120383028001,
+    "AUC": 0.9959851541823106,
+    "samples_per_sec": 205.4710839028513,
+    "Train_Time_s": 1548.90682387352,
+    "Test_Loss": 0.08559276245646708,
+    "Test_Steps_per_sec": 6.425956045314857
+  },
+  "hyperparameters": {
+    "batch_size": 32,
+    "num_epochs": 3,
+    "learning_rate": 2e-05,
+    "max_length": 384,
+    "seed": 42
+  }
+}

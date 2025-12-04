@@ -1,0 +1,24 @@
+{
+  "dataset": "liar",
+  "model": "distilbert",
+  "num_train_samples": 18369,
+  "num_test_samples": 2296,
+  "metrics": {
+    "Accuracy": 0.6842334494773519,
+    "Precision": 0.6808758119867631,
+    "Recall": 0.6842334494773519,
+    "F1": 0.6783353608609692,
+    "AUC": 0.7639423932185642,
+    "samples_per_sec": 202.41716206746227,
+    "Train_Time_s": 878.8779492378235,
+    "Test_Loss": 0.528017259720299,
+    "Test_Steps_per_sec": 6.347576510826343
+  },
+  "hyperparameters": {
+    "batch_size": 32,
+    "num_epochs": 5,
+    "learning_rate": 2e-05,
+    "max_length": 384,
+    "seed": 42
+  }
+}

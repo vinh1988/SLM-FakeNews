@@ -1,0 +1,24 @@
+{
+  "dataset": "welfake",
+  "model": "albert",
+  "num_train_samples": 54100,
+  "num_test_samples": 9017,
+  "metrics": {
+    "Accuracy": 0.9739381168903183,
+    "Precision": 0.9739505085537427,
+    "Recall": 0.9739381168903183,
+    "F1": 0.9739355697393389,
+    "AUC": 0.9966581892041607,
+    "samples_per_sec": 84.96524089074374,
+    "Train_Time_s": 4015.1458644866943,
+    "Test_Loss": 0.08027486464897078,
+    "Test_Steps_per_sec": 2.657225011776615
+  },
+  "hyperparameters": {
+    "batch_size": 32,
+    "num_epochs": 3,
+    "learning_rate": 2e-05,
+    "max_length": 384,
+    "seed": 42
+  }
+}

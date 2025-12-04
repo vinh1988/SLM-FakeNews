@@ -1,0 +1,10 @@
+Dataset,HF_ID,Total,Train,Val,Test,Split_Ratio,Model,Accuracy,Precision,Recall,F1,AUC,samples_per_sec,Train_Time_s,Val_Loss,Val_Steps_per_sec
+WELFake,davanstrien/WELFake,63323,47492,7915,7916,75/12.5/12.5,DistilBERT,,,,,,,,,,
+WELFake,davanstrien/WELFake,63323,47492,7915,7916,75/12.5/12.5,MiniLM,,,,,,,,,,
+WELFake,davanstrien/WELFake,63323,47492,7915,7916,75/12.5/12.5,ALBERT,,,,,,,,,,
+LIAR,chengxuphd/liar2,10269,7701,1284,1284,75/12.5/12.5,DistilBERT,,,,,,,,,,
+LIAR,chengxuphd/liar2,10269,7701,1284,1284,75/12.5/12.5,MiniLM,,,,,,,,,,
+LIAR,chengxuphd/liar2,10269,7701,1284,1284,75/12.5/12.5,ALBERT,,,,,,,,,,
+FakeNewsNet (GossipCop),gossipcop/FakeNewsNet,21287,15965,2661,2661,75/12.5/12.5,DistilBERT,,,,,,,,,,
+FakeNewsNet (GossipCop),gossipcop/FakeNewsNet,21287,15965,2661,2661,75/12.5/12.5,MiniLM,,,,,,,,,,
+FakeNewsNet (GossipCop),gossipcop/FakeNewsNet,21287,15965,2661,2661,75/12.5/12.5,ALBERT,,,,,,,,,,

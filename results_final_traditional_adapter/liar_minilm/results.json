@@ -1,0 +1,24 @@
+{
+  "dataset": "liar",
+  "model": "minilm",
+  "num_train_samples": 18369,
+  "num_test_samples": 2296,
+  "metrics": {
+    "Accuracy": 0.6742160278745645,
+    "Precision": 0.6710743175271773,
+    "Recall": 0.6742160278745645,
+    "F1": 0.6647318430774726,
+    "AUC": 0.7492260807486177,
+    "samples_per_sec": 296.9143370748382,
+    "Train_Time_s": 777.2654278278351,
+    "Test_Loss": 0.5533881092237102,
+    "Test_Steps_per_sec": 9.310902556353811
+  },
+  "hyperparameters": {
+    "batch_size": 32,
+    "num_epochs": 5,
+    "learning_rate": 2e-05,
+    "max_length": 384,
+    "seed": 42
+  }
+}
