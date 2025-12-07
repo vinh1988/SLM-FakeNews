@@ -1,0 +1,206 @@
+\begin{thebibliography}{10}
+
+\bibitem{vosoughi2018spread}
+Soroush Vosoughi, Deb Roy, and Sinan Aral.
+\newblock The spread of true and false news online.
+\newblock {\em Science}, 359(6380):1146--1151, 2018.
+
+\bibitem{shu2017fake}
+Kai Shu, Amy Sliva, Suhang Wang, Jiliang Tang, and Huan Liu.
+\newblock Fake news detection on social media: A data mining perspective.
+\newblock {\em SIGKDD Explorations Newsletter}, 19(1):22--36, 2017.
+
+\bibitem{allcott2017social}
+Hunt Allcott and Matthew Gentzkow.
+\newblock Social media and fake news in the 2016 election.
+\newblock {\em Journal of Economic Perspectives}, 31(2):211--236, 2017.
+
+\bibitem{zarocostas2020fight}
+John Zarocostas.
+\newblock How to fight an infodemic.
+\newblock {\em The Lancet}, 395(10225):676, 2020.
+
+\bibitem{who2020mythbusters}
+{World Health Organization}.
+\newblock Coronavirus disease ({COVID-19}) advice for the public: Mythbusters.
+\newblock
+  \url{https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters},
+  2020.
+\newblock Accessed: 2025-01-01.
+
+\bibitem{oshikawa2018survey}
+Ray Oshikawa, Jing Qian, and William~Yang Wang.
+\newblock A survey on natural language processing for fake news detection,
+  2018.
+\newblock Also published in LREC 2020.
+
+\bibitem{devlin2019bert}
+Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova.
+\newblock {BERT}: Pre-training of deep bidirectional transformers for language
+  understanding.
+\newblock In {\em Proceedings of the 2019 Conference of the North American
+  Chapter of the Association for Computational Linguistics: Human Language
+  Technologies (NAACL-HLT)}, pages 4171--4186, 2019.
+
+\bibitem{openai2023gpt4}
+OpenAI.
+\newblock {GPT-4} technical report, 2023.
+
+\bibitem{hinton2015distilling}
+Geoffrey Hinton, Oriol Vinyals, and Jeff Dean.
+\newblock Distilling the knowledge in a neural network.
+\newblock {\em arXiv preprint arXiv:1503.02531}, 2015.
+\newblock NIPS 2015 Deep Learning Workshop.
+
+\bibitem{sanh2019distilbert}
+Victor Sanh, Lysandre Debut, Julien Chaumond, and Thomas Wolf.
+\newblock {DistilBERT}, a distilled version of {BERT}: smaller, faster, cheaper
+  and lighter.
+\newblock {\em arXiv preprint arXiv:1910.01108}, 2019.
+
+\bibitem{li2023survey}
+Zhuuhan Li, Munan Xu, Qingshan Song, David Liu, and Raghuraman Krishnamoorthi.
+\newblock A survey on model compression for large language models.
+\newblock {\em arXiv preprint arXiv:2308.07633}, 2023.
+
+\bibitem{ruchansky2017csi}
+Natali Ruchansky, Sungyong Seo, and Yan Liu.
+\newblock {CSI}: A hybrid deep model for fake news detection.
+\newblock In {\em Proceedings of the 2017 ACM on Conference on Information and
+  Knowledge Management (CIKM)}, pages 797--806, 2017.
+
+\bibitem{wang2018eann}
+Yaqing Wang, Fenglong Ma, Zhiwei Jin, Ye~Yuan, Guangxu Xun, Kishlay Jha, Lu~Su,
+  and Jing Gao.
+\newblock {EANN}: Event adversarial neural networks for multi-modal fake news
+  detection.
+\newblock In {\em Proceedings of the 24th ACM SIGKDD International Conference
+  on Knowledge Discovery \& Data Mining}, pages 849--857, 2018.
+
+\bibitem{singhania20193han}
+Sneha Singhania, Nuria Fernandez, and Jihie Choi.
+\newblock 3han: A deep neural network for fake news detection.
+\newblock In {\em International Conference on Neural Information Processing},
+  pages 572--581. Springer, 2019.
+
+\bibitem{yang2022fake}
+Li~Yang, Xian Zhou, et~al.
+\newblock A survey on automatic fake news detection: The core and the
+  incidental.
+\newblock {\em Neurocomputing}, 2022.
+
+\bibitem{liu2019roberta}
+Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, Mandar Joshi, Danqi Chen, Omer
+  Levy, Mike Lewis, Luke Zettlemoyer, and Veselin Stoyanov.
+\newblock {RoBERTa}: A robustly optimized {BERT} pretraining approach.
+\newblock {\em arXiv preprint arXiv:1907.11692}, 2019.
+
+\bibitem{raffel2020t5}
+Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael
+  Matena, Yanqi Zhou, Wei Li, and Peter~J Liu.
+\newblock Exploring the limits of transfer learning with a unified text-to-text
+  transformer.
+\newblock {\em Journal of Machine Learning Research}, 21(140):1--67, 2020.
+
+\bibitem{han2016deep}
+Song Han, Huizi Mao, and William~J Dally.
+\newblock Deep compression: Compressing deep neural networks with pruning,
+  trained quantization and huffman coding.
+\newblock In {\em International Conference on Learning Representations (ICLR)},
+  2016.
+
+\bibitem{jiao2020tinybert}
+Xiaoqi Jiao, Yichun Yin, Lifeng Shang, Xin Jiang, Xiao Chen, Linlin Li, Fang
+  Wang, and Qun Liu.
+\newblock {TinyBERT}: Distilling {BERT} for natural language understanding.
+\newblock In {\em Findings of the Association for Computational Linguistics:
+  EMNLP 2020}, pages 4163--4174, 2020.
+
+\bibitem{wang2020minilm}
+Wenhui Wang, Furu Wei, Li~Dong, Hangbo Bao, Nan Yang, and Ming Zhou.
+\newblock {MiniLM}: Deep self-attention distillation for task-agnostic
+  compression of pre-trained transformers.
+\newblock In {\em Advances in Neural Information Processing Systems (NeurIPS)},
+  volume~33, pages 5776--5788, 2020.
+
+\bibitem{lan2019albert}
+Zhenzhong Lan, Mingda Chen, Sebastian Goodman, Kevin Gimpel, Piyush Sharma, and
+  Radu Soricut.
+\newblock {ALBERT}: A lite {BERT} for self-supervised learning of language
+  representations.
+\newblock In {\em International Conference on Learning Representations (ICLR)},
+  2020.
+
+\bibitem{sun2020mobilebert}
+Zhiqing Sun, Hongkun Yu, Xiaodan Song, Renjie Liu, Yiming Yang, and Denny Zhou.
+\newblock {MobileBERT}: a compact task-agnostic {BERT} for resource-limited
+  devices.
+\newblock {\em Proceedings of the 58th Annual Meeting of the Association for
+  Computational Linguistics (ACL)}, pages 2158--2170, 2020.
+
+\bibitem{tang2022gal}
+Jiaxi Tang, Rakesh Wang, et~al.
+\newblock Understanding and improving knowledge distillation.
+\newblock In {\em arXiv preprint arXiv:2002.03532}, 2022.
+\newblock Contextual approximation for Distillation performance.
+
+\bibitem{zhang2023survey}
+Yftah Zhang and Ali~A Ghorbani.
+\newblock A survey on fake news detection with deep learning.
+\newblock {\em IEEE Access}, 2023.
+
+\bibitem{hu2021lora}
+Edward~J Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean
+  Wang, Lu~Wang, and Weizhu Chen.
+\newblock {LoRA}: Low-rank adaptation of large language models.
+\newblock In {\em International Conference on Learning Representations (ICLR)},
+  2022.
+
+\bibitem{houlsby2019parameter}
+Neil Houlsby, Andrei Giurgiu, Stanislaw Jastrzebski, Bruna Morrill, Andrea
+  Corrado, Sergei Vassilvitskii, et~al.
+\newblock Parameter-efficient transfer learning for {NLP}.
+\newblock In {\em International Conference on Machine Learning (ICML)}, pages
+  2790--2799. PMLR, 2019.
+
+\bibitem{lester2021power}
+Brian Lester, Rami Al-Rfou, and Noah Constant.
+\newblock The power of scale for parameter-efficient prompt tuning.
+\newblock In {\em Proceedings of the 2021 Conference on Empirical Methods in
+  Natural Language Processing (EMNLP)}, pages 3045--3059, 2021.
+
+\bibitem{verma2021welfake}
+Pradip~K Verma, P~Agrawal, I~Amorim, and R~Prodan.
+\newblock {WELFake}: Word embedding over linguistic features for fake news
+  detection.
+\newblock In {\em IEEE Transactions on Computational Social Systems}, number~4,
+  pages 881--893. IEEE, 2021.
+
+\bibitem{shu2020fakenewsnet}
+Kai Shu, Deepak Mahudeswaran, Suhang Wang, Dongwon Lee, and Huan Liu.
+\newblock {FakeNewsNet}: A data repository with news content, social context,
+  and spatiotemporal information for studying fake news on social media.
+\newblock {\em Big Data}, 8(3):171--188, 2020.
+
+\bibitem{wang2017liar}
+William~Yang Wang.
+\newblock {``Liar, Liar Pants on Fire''}: A new benchmark dataset for fake news
+  detection.
+\newblock In {\em Proceedings of the 55th Annual Meeting of the Association for
+  Computational Linguistics (Volume 2: Short Papers)}, pages 422--426.
+  Association for Computational Linguistics, 2017.
+
+\bibitem{devlin2018bert}
+Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova.
+\newblock Bert: Pre-training of deep bidirectional transformers for language
+  understanding.
+\newblock {\em arXiv preprint arXiv:1810.04805}, 2018.
+
+\bibitem{wolf2019huggingface}
+Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue,
+  Anthony Moi, Pierric Cistac, Tim Rault, Remi Louf, Morgan Funtowicz, et~al.
+\newblock Huggingface's transformers: State-of-the-art natural language
+  processing.
+\newblock {\em arXiv preprint arXiv:1910.03771}, 2019.
+
+\end{thebibliography}
