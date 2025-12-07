@@ -436,7 +436,7 @@
     \begin{subfigure}[t]{\textwidth}
         \centering
         \includegraphics[width=1.0\linewidth]{plots/WELFake_BarChart.png}
-        \caption{Bar chart showing F1 scores of different models on the WELFake dataset~\cite{verma2021welfake}.}
+        \caption{Bar chart showing $F_1$ scores of different models on the WELFake dataset~\cite{verma2021welfake}.}
         \label{fig:welfake_barchart}
     \end{subfigure}
     \vspace{10pt}
@@ -446,7 +446,7 @@
         \caption{Scatter plot of inference speed vs. accuracy for models on the WELFake dataset.}
         \label{fig:welfake_scatter}
     \end{subfigure}
-    \caption{Results on the WELFake dataset~\cite{verma2021welfake}. (a) F1 scores across model families. (b) Speed-accuracy trade-off visualization.}
+    \caption{Results on the WELFake dataset~\cite{verma2021welfake}. (a) $F_1$ scores across model families. (b) Speed-accuracy trade-off visualization.}
     \label{fig:res_welfake}
 \end{figure}
 
@@ -523,7 +523,7 @@ Table~\ref{tab:fakenewsnet_results} shows the results on the imbalanced dataset.
 	\begin{enumerate}
 		\item SLM Superiority on Long Context: On the balanced WELFake dataset, distilled models proved exceptionally capable. DistilBERT (Full FT) achieved a state-of-the-art $F_1$-score of 99.09\%, surpassing the teacher model RoBERTa-base (99.37\%), challenging the assumption that larger parameter counts are always superior for binary classification tasks.
 		
-		\item The "Adapter" Breakthrough: A critical contribution of this work is identifying the stability of Bottleneck Adapters on short, noisy text. While LoRA and Full Fine-Tuning suffered from "Model Collapse" on the LIAR dataset (converging to majority class with $\sim$45.7\% F1), Adapters successfully captured decision boundaries, achieving $\sim$68\% F1, thereby outperforming even the BERT-base teacher.
+		\item The "Adapter" Breakthrough: A critical contribution of this work is identifying the stability of Bottleneck Adapters on short, noisy text. While LoRA and Full Fine-Tuning suffered from "Model Collapse" on the LIAR dataset (converging to majority class with $\sim$45.7\% $F_1$), Adapters successfully captured decision boundaries, achieving $\sim$68\% $F_1$, thereby outperforming even the BERT-base teacher.
 		
 		\item Efficiency Sweet Spot: MiniLM emerged as the optimal solution for real-time systems. It matches the accuracy of large transformers while delivering a 2.7$\times$ speedup (processing $>$350 samples/s), making it viable for high-throughput edge deployment.
 		
